@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * *Description: 'Print base 10 numbers'
+ * *Description: 'Alphabets backwards'
  * Return: Always 0
  */
 int main(void)
